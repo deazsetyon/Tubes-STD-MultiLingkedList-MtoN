@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672792584 source:c:\users\asus\documents\semester 3\test tubes\test6\main.cpp
+	"test.h"
+
+1672792107 c:\users\asus\documents\semester 3\test tubes\test6\test.h
+	<iostream>
+
+1672792443 source:c:\users\asus\documents\semester 3\test tubes\test6\test.cpp
+	"test.h"
+
